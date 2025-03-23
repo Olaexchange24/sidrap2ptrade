@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 23 Mar 2025 04:45:44 at https://sidrap2ptrading.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sidrap2ptrading.com -O1 "C:\My Web Sites\SIDRA P2P TRADE" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:46:00	Error: 	"Unauthorized" (401) at link https://sidrap2ptrading.com/xmlrpc.php?rsd (from https://sidrap2ptrading.com/)
+04:46:06	Warning: 	Moved Permanently for https://sidrap2ptrading.com/?p=32
+04:46:06	Warning: 	File has moved from https://sidrap2ptrading.com/?p=32 to https://sidrap2ptrading.com/p2p-2/
+
+HTTrack Website Copier/3.49-2 mirror complete in 22 seconds : 44 links scanned, 41 files written (1562065 bytes overall) [433221 bytes received at 19691 bytes/sec], 1452795 bytes transferred using HTTP compression in 39 files, ratio 20%, 7.5 requests per connection
+(1 errors, 2 warnings, 0 messages)
